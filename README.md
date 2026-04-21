@@ -1,6 +1,7 @@
 # SpeedRunDeck
 
-<img width="532" height="806" alt="Screenshot 2026-04-21 134635" src="https://github.com/user-attachments/assets/71ab5f41-065a-48b1-8879-4c2deba054b1" />
+<img width="540" height="828" alt="SpeedrunDeck" src="https://github.com/user-attachments/assets/55e8a13b-7864-48d1-ac47-6d7353359d0a" />
+Demo: https://www.youtube.com/watch?v=HtO7e9ZU1l8
 <br><br/>
 
 Recently, I’ve gotten into Minecraft speedrunning, but I quickly noticed that you need to press a lot of difficult keybinds to make your runs efficient and fast. For example, F3 + F or F3 + Shift + F is used to quickly increase or decrease the render distance in Minecraft, which is useful for pearl hanging, calculating the distance to the blaze spawner, and many other speedrunning strategies. While doing this, you also need to keep moving and perform other tasks, which makes pressing these keybinds very difficult.
