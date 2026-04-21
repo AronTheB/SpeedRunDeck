@@ -1,4 +1,4 @@
-# SpeedRunDeck
+# Speedrun Deck
 
 <img width="540" height="828" alt="SpeedrunDeck" src="https://github.com/user-attachments/assets/55e8a13b-7864-48d1-ac47-6d7353359d0a" />
 
