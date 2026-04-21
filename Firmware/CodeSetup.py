@@ -335,8 +335,14 @@ class HackpadConfigGUI:
             'BACKSPACE': 'BACKSPACE'
         }
         
-        hackpad_pins = ["board.D0", "board.D1", "board.D2", 
-                        "board.D3", "board.D4", "board.D5"]
+        hackpad_pins = [
+        board.D7,  # Key 1
+        board.D8,  # Key 2
+        board.D9,  # Key 3
+        board.D10,  # Key 4
+        board.D6,  # Key 5
+        board.D5,  # Key 6 
+        ]
         
         pins_list = []
         keybinds_list = []
