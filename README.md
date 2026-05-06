@@ -1,6 +1,6 @@
 # Speedrun Deck
 
-<img width="540" height="828" alt="SpeedrunDeck" src="https://github.com/user-attachments/assets/55e8a13b-7864-48d1-ac47-6d7353359d0a" />
+<img width="1688" height="2588" alt="SpeedrunDeck" src="https://github.com/user-attachments/assets/d86fa529-5f22-41b6-a077-46a6db7f5713" />
 
 Demo: https://www.youtube.com/watch?v=HtO7e9ZU1l8
 <br><br/>
